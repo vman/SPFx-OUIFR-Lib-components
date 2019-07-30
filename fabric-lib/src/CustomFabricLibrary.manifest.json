@@ -1,0 +1,9 @@
+{
+  "id": "923b129b-58fa-491b-8dd0-1c273cb61393",
+  "alias": "CustomFabricLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
